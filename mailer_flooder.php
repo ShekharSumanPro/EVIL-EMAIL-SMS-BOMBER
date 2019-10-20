@@ -3,7 +3,7 @@
 <head>
 <title>Evil Email/SMS Bomber</title>
 <meta name="description" content="Evil Email/SMS Bomber">
-<meta name="author" content="https://www.facebook.com/AnonymousLegionForJustice">
+<meta name="author" content="https://www.facebook.com/groups/ProHackerComunity/">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 <style type="text/css">
