@@ -26,7 +26,7 @@
 
 PLEASE READ THE INSTRUCTIONS IN THE PDF FILE FIRST   
 
-https://github.com/SEODEMON/EVIL-EMAIL-SMS-BOMBER/blob/master/INSTRUCTIONS.pdf
+https://github.com/ShekharSumanPro/EVIL-EMAIL-SMS-BOMBER/blob/master/INSTRUCTIONS.pdf
 
 
 [![IMAGE ALT TEXT HERE](https://github.com/SEODEMON/EVIL-EMAIL-SMS-BOMBER/blob/master/images/youtube.JPG)](https://www.youtube.com/watch?v=saMag6sGbV0
